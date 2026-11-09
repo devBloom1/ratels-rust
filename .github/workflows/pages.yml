@@ -1,4 +1,4 @@
-name: Deploy iPLAY prototype to Pages
+name: Deploy iFOUR prototype to Pages
 
 on:
   push:
